@@ -9,3 +9,5 @@ Zarichanska Yelyzaveta
 ## Project overview
 
 ## Code
+File overview:
+* ```World Happiness Data``` - csv file which contains data about happiness score in different contries through different years and other factors that could affect the happiness score
