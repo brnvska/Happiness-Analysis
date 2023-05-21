@@ -6,6 +6,6 @@ Baranovska Tetiana
 Lakoma Nadiia
 Zarichanska Yelyzaveta
 
-### Project overview
+## Project overview
 
-### Code
+## Code
